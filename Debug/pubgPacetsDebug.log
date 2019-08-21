@@ -1,0 +1,31 @@
+﻿  LocalListener.cpp
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(165,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(179,26): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(438,38): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(924,54): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1196,7): warning C4101:  i: неиспользованная локальная переменная
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1225,7): warning C4101:  nActorMatchNo: неиспользованная локальная переменная
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1257,55): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1856,17): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1844,7): warning C4101:  nBufLen: неиспользованная локальная переменная
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1843,8): warning C4101:  szBuf: неиспользованная локальная переменная
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(1937,18): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2559,71): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2560,71): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2562,89): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2677,47): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2778,66): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2834,66): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(2932,8): warning C4101:  nStrLen: неиспользованная локальная переменная
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(3963,49): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(3988,48): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4110,48): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4050,40): warning C4101:  nType9: неиспользованная локальная переменная
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4339,85): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4351,87): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4358,63): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4415,1): warning C4305:  инициализация: усечение из "int" в "BYTE"
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4415,26): warning C4309:  инициализация: усечение константного значения
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\CBitReader.h(4418,66): warning C4244:  =: преобразование "uint64_t" в "DWORD", возможна потеря данных
+D:\projects\pubgPacetsDebug\pubgPacetsDebug\LocalListener.cpp(66,11): warning C4101:  FR: неиспользованная локальная переменная
+  pubgPacetsDebug.vcxproj -> D:\projects\pubgPacetsDebug\pubgPacetsDebug\Debug\pubgPacetsDebug.exe
